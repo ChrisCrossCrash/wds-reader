@@ -16,5 +16,8 @@
     "modern-normalize": "^1.1.0",
     "prettier": "^2.5.1",
     "snowpack": "^3.8.8"
+  },
+  "dependencies": {
+    "tesseract.js": "^2.1.5"
   }
 }

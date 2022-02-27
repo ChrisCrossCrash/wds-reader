@@ -1,3 +1,3 @@
-# Snowpack HTML Starter
+# Web Dev Simplified Audio Book Reader Tutorial
 
-A very simple HTML, SCSS, and JS starter. It's a great alternative for using Codepen when you just want to try something simple.
+Created by following the tutorial: [How To Create An Audio Book Reader In JavaScript](https://www.youtube.com/watch?v=IE4lnxXoupg)
